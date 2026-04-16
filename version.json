@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "buildDate": "2026-04-16",
+  "changelog": [
+    "🎉 Ra mắt phiên bản đầu tiên",
+    "✅ Hệ thống học tập AI thông minh",
+    "✅ Kết bạn & Bảng xếp hạng",
+    "✅ Nhắn tin giữa bạn bè"
+  ],
+  "apkUrl": "https://github.com/MStudiotb/youandme/releases/latest/download/app-release.apk",
+  "forceUpdate": false
+}
